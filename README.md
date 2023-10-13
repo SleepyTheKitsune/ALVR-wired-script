@@ -1,2 +1,5 @@
-# ALVR-wired-script
-A script that was intended for personal use. but its open for everyone to use!
+# ALVR Wired Script
+This Script is intended for Linux and Linux Distrobutions, figured id share my personal script to help people out!
+
+# Packages Needed
+Arch Linux: `android-tools`
