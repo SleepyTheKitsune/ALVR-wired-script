@@ -3,3 +3,6 @@ This script is written in Bash and it was originally intended to be for personal
 
 # Packages Needed
 Arch Linux: `android-tools`
+
+# Disclaimer
+this is my first time using github and writing in bash
