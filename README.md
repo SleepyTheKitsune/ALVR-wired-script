@@ -3,8 +3,11 @@ This script is written in Bash and it was originally intended to be for personal
 
 # Packages Needed
 Arch Linux: `android-tools`
+
 Ubuntu: `android-tools-adb`
+
 Fedora: `android-tools`
+
 Debian: `android-sdk-platform-tools`
 
 # Disclaimer
